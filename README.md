@@ -35,3 +35,25 @@ __SQL databases__
   * creating a table
   * selecting data from a table
 
+## Tools
+
+__Cypress__
+  * know how to write test scripts
+  * able to run created test scripts
+
+__Visual Studio Code__
+  * know how to write HTML and CSS
+
+__Jira__
+  * know how to create bug reports
+  * able to create projects and track their progress
+
+__Browser developer tools__
+
+__MySQL__
+  * able to use basic commands
+  * know how to use join and relationship
+
+__Trello__
+  * know how to use Kanban boards and track project progress
+
