@@ -16,14 +16,22 @@ I am a motivated and versatile individual with a Master's degree in Traffic Engi
 My skills in problem-solving, analytical thinking, and attention to detail, along with my ability to communicate effectively, make me well-suited for this new career path. I am enthusiastic about applying my skills and experience to contribute to the development of high-quality software products.
 
 ## CV
-You can download my CV from my [Google Drive](https://drive.google.com/file/d/12wAhTg6fmrMfQrv4O8IoZXxAuzpDktLc/view?usp=sharing).
+Download my CV from my [Google Drive](https://drive.google.com/file/d/12wAhTg6fmrMfQrv4O8IoZXxAuzpDktLc/view?usp=sharing).
 
 ## Skills
 
-You can find some examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+Find some examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * understanding the requirements, defining the scope of testing, identifying test cases, preparing test data, and creating a test plan
   * creating test cases that cover various scenarios
   * documenting and reporting defects found during testing
+
+__Automation testing__
+  * create and execute test scripts
+
+__SQL databases__
+  * creating a database
+  * creating a table
+  * selecting data from a table
 
