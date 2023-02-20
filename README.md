@@ -91,3 +91,8 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
   * Bug #2. [No restrictions of unsucessful login attemps for more than five times](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=781544473)
   * Bug #3. [No email was sent with the proper details on resetting the password](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=685045445)
 
+## Books I have read
+__"Foundations of Software Testing, ISTQB Certification"__ Dorothy Graham, Erik van Veenendaal, Isabel Evans, Rex Black - 1st Edition
+An excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+
+
