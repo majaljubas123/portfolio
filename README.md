@@ -44,10 +44,6 @@ __Cypress__
 __Visual Studio Code__
   * know how to write HTML and CSS
 
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
 __Browser developer tools__
 
 __MySQL__
