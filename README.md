@@ -16,7 +16,7 @@ I am a motivated and versatile individual with a Master's degree in Traffic Engi
 My skills in problem-solving, analytical thinking, and attention to detail, along with my ability to communicate effectively, make me well-suited for this new career path. I am enthusiastic about applying my skills and experience to contribute to the development of high-quality software products.
 
 ## CV
-Download my CV from my [Google Drive](https://drive.google.com/file/d/12wAhTg6fmrMfQrv4O8IoZXxAuzpDktLc/view?usp=sharing).
+Download my CV from my [Google Drive](https://drive.google.com/file/d/1XVx_gbbOKYxNYVrF3IpKDB_1ZI-jv948/view?usp=sharing).
 
 ## Skills
 
