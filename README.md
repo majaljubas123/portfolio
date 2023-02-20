@@ -93,6 +93,7 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
 
 ## Books I have read
 __"Foundations of Software Testing, ISTQB Certification"__ Dorothy Graham, Erik van Veenendaal, Isabel Evans, Rex Black - 1st Edition
+
 An excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 
