@@ -74,3 +74,12 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
 
 [Link to the certificate](https://drive.google.com/file/d/1qXAe05V3oonfj5pVlmusZhZFiCDUeTVm/view?usp=sharing)  
 
+
+## Examples of my work
+
+### Test cases and Test scenario for nopCommerce demo
+
+- [The demo webshop](https://demo.nopcommerce.com/) was used to create demo test cases and scenarios
+  * Test cases for [Register functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1129692559)
+  * Test cases for [Search functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=794207887)
+  * Test cases for [Add to Cart functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=273074434)
