@@ -68,3 +68,8 @@ Contents:
 
 [Link to the certificate](https://drive.google.com/file/d/1e4JdutcOqWVtFyhS2PaB-cT98Nl0nV3r/view?usp=sharing)  
 
+__SQL for Beginners: Learn SQL using MySQL and Database Design__  
+*online courses by [Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/sql-for-beginners-course/), Udemy*  
+Understand SQL using the MySQL database. Learn Database Design and Data Analysis with Normalization and Relationships.
+[Link to the certificate](https://drive.google.com/file/d/1qXAe05V3oonfj5pVlmusZhZFiCDUeTVm/view?usp=sharing)  
+
