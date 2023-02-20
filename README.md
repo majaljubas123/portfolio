@@ -83,4 +83,5 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
   * Test cases for [Register functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1129692559)
   * Test cases for [Search functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=794207887)
   * Test cases for [Add to Cart functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=273074434)
-  * [Test Scenarios] (https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1774201712)
+  * [Test Scenarios](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1774201712)
+
