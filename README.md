@@ -53,3 +53,18 @@ __MySQL__
 __Trello__
   * know how to use Kanban boards and track project progress
 
+## Courses
+
+__ISTQB® Certified Tester, Foundation Level (2018)__  
+*certificate by [ISQI](https://zertdb.isqi.org/en/download/index/token/iP29%215%24j_R82%21%21duKHCC), ISTQB*  
+ISTQB Foundation Level is an entry-level certification in software testing, offered by the International Software Testing Qualifications Board (ISTQB).
+Contents:
+* Fundamentals of Testing
+* Testing Throughout the Software Development Lifecycle
+* Static Testing
+* Test Techniques
+* Test Management
+* Tool Support for Testing
+
+[Link to the certificate](https://drive.google.com/file/d/1e4JdutcOqWVtFyhS2PaB-cT98Nl0nV3r/view?usp=sharing)  
+
