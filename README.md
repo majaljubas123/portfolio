@@ -85,3 +85,7 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
   * Test cases for [Add to Cart functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=273074434)
   * [Test Scenarios](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1774201712)
 
+### Bug reports 
+- Several bugs found on [the demo webshop nopCommerce](https://demo.nopcommerce.com/):
+  * Bug #1. [Registered confirmation email is not sent to the registered email address as a confirmation for registering the account](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=1784992029).
+ 
