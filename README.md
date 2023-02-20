@@ -79,7 +79,8 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
 
 ### Test cases and Test scenario for nopCommerce demo
 
-- [The demo webshop](https://demo.nopcommerce.com/) was used to create demo test cases and scenarios
+- [The demo webshop nopCommerce](https://demo.nopcommerce.com/) was used to create demo test cases and scenarios
   * Test cases for [Register functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1129692559)
   * Test cases for [Search functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=794207887)
   * Test cases for [Add to Cart functionality](https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=273074434)
+  * [Test Scenarios] (https://docs.google.com/spreadsheets/d/1-UGu41l_iPdWcQ9NnN8n06xH12KJhbH3/edit#gid=1774201712)
