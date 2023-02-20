@@ -87,5 +87,7 @@ Understand SQL using the MySQL database. Learn Database Design and Data Analysis
 
 ### Bug reports 
 - Several bugs found on [the demo webshop nopCommerce](https://demo.nopcommerce.com/):
-  * Bug #1. [Registered confirmation email is not sent to the registered email address as a confirmation for registering the account](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=1784992029).
- 
+  * Bug #1. [Registered confirmation email is not sent to the registered email address as a confirmation for registering the account](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=1784992029)
+  * Bug #2. [No restrictions of unsucessful login attemps for more than five times](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=781544473)
+  * Bug #3. [No email was sent with the proper details on resetting the password](https://docs.google.com/spreadsheets/d/1-N1bfgKbfBSjunNpkAq853R8394ueWEx9sHFP84H4Bw/edit#gid=685045445)
+
