@@ -42,7 +42,7 @@ __Cypress__
   * able to run created test scripts
 
 __Visual Studio Code__
-  * know how to write HTML and CSS
+  * know how to write basic HTML and CSS 
 
 __Browser developer tools__
 
